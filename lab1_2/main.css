@@ -1,0 +1,77 @@
+.nav ul {
+  display: flex;
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  margin: 0 10px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+nav {
+  background-color: red;
+  padding: 10px;
+}
+
+body {
+  background-color: bisque;
+}
+
+#hero {
+  text-align: center;
+  background-color: #f4f4f4;
+  padding: 50px 20px;
+}
+
+#hero h1 {
+  font-size: 36px;
+  color: #333;
+}
+
+#hero p {
+  font-size: 18px;
+  color: #666;
+}
+
+#about {
+  text-align: center;
+  background-color: #f4f4f4;
+  padding: 50px 20px;
+}
+
+#about h1 {
+  font-size: 36px;
+  color: #333;
+}
+
+#about p {
+  font-size: 18px;
+  color: #666;
+}
+
+#Liked_Coding {
+  text-align: center;
+  background-color: #f4f4f4;
+  padding: 50px 20px;
+}
+
+#Liked_Coding h1 {
+  font-size: 36px;
+  color: #333;
+}
+
+#Liked_Coding p {
+  font-size: 18px;
+  color: #666;
+}
+
+#Liked_Coding ul {
+  list-style-position: inside;
+  text-align: center;
+  padding: 0%;
+}
